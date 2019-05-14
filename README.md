@@ -28,6 +28,7 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 ## continuous deployment
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/574e8939-83c0-4555-84d1-0e533bbd7f13/deploy-status)](https://app.netlify.com/sites/bitcoin-react-app/deploys)
 
 ## Tools used:
@@ -36,6 +37,5 @@ Your app is ready to be deployed!
 - [Ant Design](https://ant.design/docs/react/introduce) - CSS framework
 - [Redux](https://redux.js.org/) - To manage application state.
 - [Jest](https://jestjs.io/)/[Enzyme](https://airbnb.io/enzyme/) - For unit testing
-
-
-
+- [blockchain.info](https://blockchain.info/) - Rest api endpoint for currency to bitcoin conversion.
+- [apiv2.bitcoinaverage.com](apiv2.bitcoinaverage.com) 's endpoints require authentication that requires registration and the generation of an API Key so we've used [blockchain.info](https://blockchain.info/) rest endpoint.

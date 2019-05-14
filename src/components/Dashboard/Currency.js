@@ -68,7 +68,7 @@ class Currency extends Component {
                   message: "please input the amount"
                 }
               ]
-            })(<InputNumber size="large" min={1} />)}
+            })(<InputNumber size="large" min={1} style={{ width: "200px" }} />)}
           </Form.Item>
 
           <Form.Item label="Currency">
@@ -83,7 +83,7 @@ class Currency extends Component {
               <Select
                 showSearch={true}
                 size="large"
-                style={{ width: "100%" }}
+                style={{ width: "200px" }}
                 placeholder="Select currency"
               >
                 {currencyList.map((list, key) => {
