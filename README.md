@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 ## Tools used:
 
 - [React](https://reactjs.org/) - View library for building user interfaces
-- [Ant Design](https://facebook.github.io/create-react-app/docs/running-tests) - CSS framework
+- [Ant Design](https://ant.design/docs/react/introduce) - CSS framework
 - [Redux](https://redux.js.org/) - To manage application state.
 - [Jest](https://jestjs.io/)/[Enzyme](https://airbnb.io/enzyme/) - For unit testing
 
