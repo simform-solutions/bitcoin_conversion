@@ -1,0 +1,24 @@
+.dashboard_root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome_note {
+  font-size: 20px;
+  font-weight: bold;
+  color: #542bb4;
+}
+
+.convert_value {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(84, 43, 180);
+  flex-direction: column;
+}
