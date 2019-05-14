@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 200
